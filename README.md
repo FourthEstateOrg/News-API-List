@@ -3,7 +3,7 @@
 
 A collective list of news and journalism APIs offered and maintained by legitimate journalism organizations and selected trusted aggregation services
 
-For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
+For information on contributing to this project, please see the [contributing guide](https://github.com/FourthEstateOrg/News-API-List/blob/main/CONTRIBUTING.md).
 
 
 ### News API List
