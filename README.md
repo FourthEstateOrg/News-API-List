@@ -1,4 +1,4 @@
-# News API Lists  
+# The News API List
 
 
 A collective list of news and journalism APIs offered and maintained by legitimate journalism organizations and selected trusted aggregation services
